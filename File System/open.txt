@@ -1,0 +1,5 @@
+employee info: 
+ name = john smith 
+ age :28 
+ employee ID = 101
+address = mexico
